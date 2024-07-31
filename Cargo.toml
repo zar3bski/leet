@@ -1,0 +1,8 @@
+[package]
+name = "leet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+phf = { version = "0.11.2", features = ["macros"] }
+rand = "0.8.4"
